@@ -1,7 +1,32 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-
-group='com.github.NatSaudi'
+group ='.com.github.RehamAlatris'
+//ext {
+//    bintrayRepo = 'maven'
+//    bintrayName = 'com.natsaudi.library.android.calander'
+//
+//    libraryName = 'NatSaudiCalendar'
+//    artifact = 'NatSaudiCalendar'
+//
+//    libraryDescription = 'Custom calendar'
+//
+//    publishedGroupId = 'com.natsaudi.library.android.calander'
+//
+//    siteUrl = 'https://github.com/RehamAlatris/NatSaudiCalendar'
+//    gitUrl = 'https://github.com/RehamAlatris/NatSaudiCalendar'
+//
+//    libraryVersion = '1.0.0'
+//
+//    developerId = 'rmohammed.natsaudi'
+//    developerName = 'Reham Alatris'
+//    developerEmail = 'reham.alatris@gmail.com'
+//
+//    licenseName = 'The Apache Software License, Version 2.0'
+//    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+//    allLicenses = ["Apache-2.0"]
+//    libPomUrl = 'https://github.com/RehamAlatris/NatSaudiCalendar'
+//
+//}
 
 android {
     compileSdkVersion 27
